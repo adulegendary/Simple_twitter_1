@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-<img src= ![TwitterCodePath]"(https://user-images.githubusercontent.com/78896535/158008765-068d0d13-0632-49b6-8c8d-9097934484a2.gif)" />
+<img src= "![TwitterCodePath](https://user-images.githubusercontent.com/78896535/158008765-068d0d13-0632-49b6-8c8d-9097934484a2.gif)" 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
