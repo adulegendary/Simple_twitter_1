@@ -35,8 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=' ![recrded codePath2](https://user-images.githubusercontent.com/78896535/159105227-627f7cac-fe06-4543-b55b-d321fdd2b596.gif)'
-/>
+<img src="![recrded codePath2](https://user-images.githubusercontent.com/78896535/159105227-627f7cac-fe06-4543-b55b-d321fdd2b596.gif)"
 
 
 ## Notes
